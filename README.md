@@ -1,4 +1,4 @@
 # Delphi_POO
 
-Cadastro de Fucnionarios, Funça~e Ususarios
+Cadastro de Fucnionarios, Função e Usuarios.
 Telas de Login e cadastros com relatorios.
